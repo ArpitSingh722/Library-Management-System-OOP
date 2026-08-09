@@ -82,9 +82,4 @@ Book added successfully!
 ```
 
 ## Author
-
-Suketu Mishra
-
-## License
-
-This project is created for educational and academic purposes.
+Arpit Singh
